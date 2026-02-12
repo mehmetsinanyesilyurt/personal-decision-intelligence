@@ -5,9 +5,8 @@
 ![Database](https://img.shields.io/badge/SQL-PostgreSQL%2FSQLite-orange)
 ![License](https://img.shields.io/badge/License-Apache%202.0-red)
 
-> **"Veriyle yönetilmeyen bir hayat, optimize edilemez."**
 
-Sentinel-V, günlük kararlarınızı, sistem sağlığınızı ve kişisel verimliliğinizi tek bir otonom yapıda birleştiren bir **Karar Destek Sistemi (DSS)** ve **Sistem Gözlemcisi**'dir. Bir MIS (Yönetim Bilişim Sistemleri) vizyonuyla, karmaşayı veriye dönüştürmek için tasarlanmıştır.
+Sentinel-V, günlük kararlarınızı, sistem sağlığınızı ve kişisel verimliliğinizi tek bir otonom yapıda birleştiren bir **Karar Destek Sistemi (DSS)** ve **Sistem Gözlemcisi**'dir. 
 
 ---
 
