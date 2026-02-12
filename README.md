@@ -30,7 +30,6 @@ Sentinel-V, günlük kararlarınızı, sistem sağlığınızı ve kişisel veri
 
 ## ⚠️ Risk Analizi & Güvenlik (SysOps Perspective)
 
-Bu proje, bir Sistem Operasyonları uzmanının titizliğiyle yapılandırılmıştır:
 1. **Data Leak Prevention:** `.gitignore` ile tüm hassas veriler (`.env`, `*.db`) yerel ortamda izole edilmiştir.
 2. **Circuit Breaker:** Sistem kaynakları %90'ın üzerine çıktığında otomatik "Mola Modu" devreye girer.
 3. **Privacy by Design:** Hiçbir kişisel veri üçüncü taraf bulut servislerine anonimleştirilmeden gönderilmez.
